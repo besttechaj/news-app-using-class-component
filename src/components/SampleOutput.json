@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": {
+        "id": "lequipe",
+        "name": "L'equipe"
+      },
+      "author": "L'EQUIPE",
+      "title": "Le flash sports du 30 novembre",
+      "description": "Retrouvez toute l'actualité sportive dans votre Flash L'Équipe.",
+      "url": "https://www.lequipe.fr/Tous-sports/Actualites/Le-flash-sports-du-30-novembre/1367619",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/le-flash-sports-l-equipe/1500000001717973/0:0,1997:1331-640-427-75/dcceb.jpg",
+      "publishedAt": "2022-11-29T23:02:00+00:00",
+      "content": "L'équipe de France dispute son dernier match de la phase de poules ce mercredi contre la Tunisie (16 heures). L'Angleterre, les États-Unis, les Pays-Bas et le Sénégal sont les premiers qualifiés pour… [+125 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/jon-fingas",
+      "title": "PlayStation brings its eSports tournaments to PS5 with easy to join events | Engadget",
+      "description": "PlayStation Tournaments have come to PS5, and the biggest upgrade may be events you're more likely to join..",
+      "url": "https://www.engadget.com/playstation-tournaments-ps5-205445616.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-11/9e578f40-7026-11ed-bff0-34de0430bf71",
+      "publishedAt": "2022-11-29T21:07:15.2746211Z",
+      "content": "Sony's PlayStation Tournaments are finally available to play on PS5, and the biggest upgrade may simply be the greater chance of joining an event. The eSports-for-everyone feature now centers around … [+1525 chars]"
+    },
+    {
+      "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+      },
+      "author": null,
+      "title": " Exclusive Mike Evans Interview ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/297261-the-voncast-with-mike-evans",
+      "urlToImage": null,
+      "publishedAt": "2022-11-23T12:37:19.2512663Z",
+      "content": "Mike Evans and Von Miller talk Tom Brady, pick the dream NFL offense and more"
+    },
+    {
+      "source": {
+        "id": "national-review",
+        "name": "National Review"
+      },
+      "author": "Caroline Downey",
+      "title": "Man Wins Elite Women’s Race at International Cyclocross Tournament",
+      "description": "Killips has an online blog, Estro Junkie, which he calls ‘a newsletter about the intersection of sports and queer theory.’",
+      "url": "https://www.nationalreview.com/news/man-wins-elite-womens-race-at-international-cyclocross-tournament/",
+      "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/10/transgender-flag.jpg?fit=2057%2C1200",
+      "publishedAt": "2022-11-15T02:37:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+      },
+      "author": null,
+      "title": "☄️ NEW ANIME JUST DROPPED ☄️",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/289173-ja-vs-zion-anime",
+      "urlToImage": null,
+      "publishedAt": "2022-11-14T22:07:16.2323649Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2022-08-30T16:37:43.8583104Z",
+      "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+    }
+  ]
+}
